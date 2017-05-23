@@ -1,0 +1,31 @@
+{
+  "name": "exemplo_heroku_nodejs",
+  "version": "1.0.0",
+  "description": "exemplo para a palestra do enacomp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleristondantas/exemplo_heroku_nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "heroku",
+    "enacomp"
+  ],
+  "engines": {
+    "node": "6.10.2"
+  },
+  "author": "Cleriston e Salviano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cleristondantas/exemplo_heroku_nodejs/issues"
+  },
+  "homepage": "https://github.com/cleristondantas/exemplo_heroku_nodejs#readme",
+  "dependencies": {
+    "express": "^4.1.1",
+    "logfmt": "^1.1.2"
+  }
+}
