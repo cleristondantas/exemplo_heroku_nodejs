@@ -15,9 +15,6 @@
     "heroku",
     "enacomp"
   ],
-  "engines": {
-    "node": "6.10.2"
-  },
   "author": "Cleriston e Salviano",
   "license": "MIT",
   "bugs": {
